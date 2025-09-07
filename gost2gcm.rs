@@ -1,3 +1,5 @@
+// File encryption with GOST2-128 in GCM mode.
+    
 // cargo run --release
 
 /*
