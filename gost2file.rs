@@ -1,5 +1,7 @@
 
-/* - we implement the same utility in pure Rust.
+/* 
+ *  File encryption with GOST2-128 in CBC mode.
+ * - we implement the same utility in pure Rust.
  * - Password input uses the `rpassword` crate (no libc/termios).
  * - Random IV uses the `getrandom` crate (cross-platform OS RNG).
  */
